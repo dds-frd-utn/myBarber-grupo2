@@ -6,6 +6,10 @@
 
 ## __DOCUMENTACION.__
 
+## Las peticiones se pueden testear con Postman
+
+## Abajo dejo la de los turnos que es en lo que se enfoca el proyecto.
+
 ### ***Turnos***
 
 ### 1. Crear turno
